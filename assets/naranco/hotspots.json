@@ -1,0 +1,66 @@
+{
+  "intro": {
+    "titulo": "Santa María del Naranco",
+    "subtitulo": "Monte Naranco, Oviedo · Prerrománico asturiano, año 848",
+    "texto": [
+      "No nació como iglesia, sino como palacio. Lo mandó levantar el rey Ramiro I de Asturias (842-850) en la ladera del Naranco, como parte de un conjunto palatino del que también formaba parte la cercana iglesia de San Miguel de Lillo.",
+      "Una inscripción en la piedra de su altar recuerda que el rey y su esposa, la reina Paterna, lo terminaron en el año 848. Siglos después, hacia el XII, el edificio se convirtió en iglesia dedicada a Santa María, y de ahí su nombre actual.",
+      "Por su equilibrio, sus soluciones técnicas y su decoración, se considera una de las obras cumbre de la arquitectura europea del siglo IX. Forma parte de los Monumentos de Oviedo y del Reino de Asturias, Patrimonio de la Humanidad por la UNESCO desde 1985."
+    ],
+    "fuentes": [
+      { "texto": "Wikipedia", "url": "https://es.wikipedia.org/wiki/Santa_Mar%C3%ADa_del_Naranco" },
+      { "texto": "Centro del Prerrománico Asturiano", "url": "https://www.centroprerromanicoasturiano.com/" }
+    ]
+  },
+  "puntos": [
+    {
+      "id": "escalera",
+      "titulo": "La doble escalera de acceso",
+      "texto": "Al piso noble se sube desde el exterior por una escalera doble adosada a la fachada, con dos tramos que llegan a un pórtico central. Era la entrada principal del palacio: el visitante subía directamente al salón del rey, sin pasar por la planta baja.",
+      "pos": [3.4, 2.3, -3.6],
+      "normal": [0.9, 0, -0.44]
+    },
+    {
+      "id": "salon",
+      "titulo": "El salón noble",
+      "texto": "Tras el pórtico se abre la gran sala del piso superior, el espacio de representación del palacio. Está cubierta por una bóveda de cañón reforzada por arcos fajones, que descansan sobre columnas adosadas a los muros. De esos arcos cuelgan medallones circulares tallados con animales y motivos vegetales, una decoración de clara inspiración bizantina.",
+      "pos": [4.7, 4.3, -0.45],
+      "normal": [1, 0, 0]
+    },
+    {
+      "id": "planta_baja",
+      "titulo": "La planta baja",
+      "texto": "Bajo el salón hay otro piso completo, más sencillo y casi a ras de suelo, también abovedado. Se divide en una sala central y dos estancias laterales. Su uso exacto se discute: pudo servir como zona de servicio o almacén, y una de sus salas se ha interpretado como baño.",
+      "pos": [4.75, 1.4, -0.45],
+      "normal": [1, 0, 0]
+    },
+    {
+      "id": "mirador",
+      "titulo": "Los miradores",
+      "texto": "En cada extremo, el salón se prolonga en un mirador abierto al paisaje mediante una triple arcada sobre columnas. Desde ellos se dominaba el valle y la ciudad de Oviedo. Cuando el palacio se convirtió en iglesia, uno de los miradores se usó como capilla y en él se colocó el altar con la inscripción del año 848.",
+      "pos": [-0.06, 5.0, 8.4],
+      "normal": [0, 0, 1]
+    },
+    {
+      "id": "palacio_iglesia",
+      "titulo": "De palacio a iglesia",
+      "texto": "Este lado largo repite la estructura del opuesto, con un cuerpo central saliente. La simetría del edificio responde a su función civil: era un espacio para la vida de la corte, no para el culto. Su transformación en la iglesia de Santa María, siglos más tarde, es la que permitió que llegara hasta hoy en tan buen estado.",
+      "pos": [-2.3, 4.3, -0.38],
+      "normal": [-1, 0, 0]
+    },
+    {
+      "id": "contrafuertes",
+      "titulo": "Contrafuertes estriados",
+      "texto": "Los contrafuertes que recorren los muros por fuera, con sus acanaladuras verticales, no son decorativos. Cada uno coincide con uno de los arcos fajones del interior y recoge el empuje de la bóveda. Este sistema de bóveda, arcos y contrafuertes anticipa en casi dos siglos soluciones propias del arte románico.",
+      "pos": [-2.34, 4.6, -4.3],
+      "normal": [-1, 0, 0]
+    },
+    {
+      "id": "columnas",
+      "titulo": "Columnas sogueadas",
+      "texto": "Las columnas de los miradores y del salón tienen el fuste tallado en forma de soga retorcida, un motivo muy característico del edificio. Sus capiteles, de forma troncopiramidal, llevan relieves enmarcados también por cordones sogueados. Columnas, capiteles y medallones forman un repertorio decorativo único en la Europa de su tiempo.",
+      "pos": [0.0, 5.0, -9.2],
+      "normal": [0, 0, -1]
+    }
+  ]
+}
