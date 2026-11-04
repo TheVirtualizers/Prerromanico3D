@@ -1,0 +1,18 @@
+{
+  "monumentos": [
+    {
+      "id": "naranco",
+      "nombre": "Santa María del Naranco",
+      "lugar": "Monte Naranco, Oviedo · Prerrománico asturiano",
+      "resumen": "El antiguo palacio de Ramiro I, terminado en el año 848. Recorre su exterior y descubre la doble escalera, sus miradores y sus contrafuertes.",
+      "fecha": "Año 848"
+    },
+    {
+      "id": "lillo",
+      "nombre": "San Miguel de Lillo",
+      "lugar": "Monte Naranco, Oviedo · Prerrománico asturiano",
+      "resumen": "La iglesia palatina de Ramiro I, a pocos pasos del palacio. Rodéala y conoce sus jambas talladas, celosías y la tribuna regia.",
+      "fecha": "Siglo IX"
+    }
+  ]
+}
